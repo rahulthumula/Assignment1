@@ -84,7 +84,7 @@ header {
       rgba(0, 64, 77, 0.9) 0%,
       rgba(0, 0, 0, 0.8) 100%
     ),
-    url("images/landing-page.png") center no-repeat;
+    url("landing-page.png") center no-repeat;
   background-size:auto;
   position: relative;
 }
